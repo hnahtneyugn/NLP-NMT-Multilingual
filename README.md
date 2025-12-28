@@ -95,6 +95,7 @@ We present the result of our training, particularly in sacreBLEU and chrF.
 | M2M100_zh_vi  | 36.84     | --    |
 | M2M100_vi_en  | 29.65     | --    |
 | M2M100_en_vi  | 29.57     | --    |
+
 For example, metrics for model T5_lo_vi (google/mt5-base for translating Laos to Vietnamese) can be seen here:
 ![T5_lo_vi_training_metrics](./lao-viet/training_metrics_4.png)
 
