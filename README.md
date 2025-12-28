@@ -28,7 +28,7 @@ Our group comprises three members (K68-AI UET)
 
 ## About this project
 
-This project is the required final project for the course Natural Language Processing (2526I_INT3406#) in University of Engineering and Technology (UET - VNU). It focuses on fine-tuning two models: google/mt5-base (580M) and facebook/m2m100 (480M) for the task Neural Machine Translation between four pairs of languages in both directions:
+This project is the required final project for the course Natural Language Processing **2526I_INT3406#** in University of Engineering and Technology (UET - VNU). It focuses on fine-tuning two models: **google/mt5-base** (580M) and **facebook/m2m100** (480M) for the task Neural Machine Translation between four pairs of languages in both directions:
 - Vietnamese - Laos (low-resource)
 - Vietnamese - Khmer (low-resource)
 - Vietnamese - Chinese
