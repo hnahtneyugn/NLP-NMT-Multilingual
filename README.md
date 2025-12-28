@@ -8,7 +8,7 @@
     <li><a href="#authors">Authors</a></li>
     <li><a href="#about-this-project">About this project</a></li>
     <li><a href="#technologies-used">Technologies Used</a></li>
-    <li><a href="#datasets-&-models">Datasets & Models</a></li>
+    <li><a href="#datasets--models">Datasets & Models</a></li>
     <li><a href="#training-results">Training results</a></li>
     <li><a href="#demo">Demo</a></li>
     <li><a href="#contributing">Contributing</a></li>
