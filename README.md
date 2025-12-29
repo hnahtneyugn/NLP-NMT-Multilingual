@@ -69,9 +69,11 @@ For Vietnamese, Laos and Khmer, we adopt the Back-translate method to get up to 
 	- This dataset was back-translated into Vietnamese by our team to support NMT tasks from **Vietnamese → Lao** and **Vietnamese → Khmer**.
 	- A multilingual dataset containing articles, audio, images, and videos.
 	- For Lao and Khmer, the data consists of news articles, from which about 700,000 lines were extracted, each line being a complete sentence.
+ 	- Data can be requested and downloaded [here](https://huggingface.co/datasets/tngtwx/Viet_to_Laos_Khmer_backtranslate). 
 - Laos, Khmer: [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
 	- This dataset was back-translated by our team into Lao and Khmer to support NMT tasks from **Lao → Vietnamese** and **Khmer → Vietnamese**.
 	- A Vietnamese news and press dataset from 2022 consisting of approximately 700,000 lines, where each line is a complete sentence.
+    - Data can be requested and downloaded [here](https://huggingface.co/datasets/tngtwx/Laos_Khmer_to_Viet_backtranslate).
 
 For models, all of them can be found [here](https://huggingface.co/tngtwx/models)!
 
